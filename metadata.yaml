@@ -1,0 +1,46 @@
+_repo: Le-crime-de-Lord-Arthur-Savile_14693
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Savine, Albert
+    alias: Savine, Alberto
+    birthdate: 1859
+    deathdate: 1927
+    gutenberg_agent_id: '8201'
+    url: http://www.gutenberg.org/2009/agents/8201
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wilde, Oscar
+    alias: Wilde, Oscar Fingal O'Flahertie Wills
+    birthdate: 1854
+    deathdate: 1900
+    gutenberg_agent_id: '111'
+    url: http://www.gutenberg.org/2009/agents/111
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Oscar_Wilde
+    - http://fr.wikipedia.org/wiki/Oscar_Wilde
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2005-01-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14693'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Manners and customs -- Fiction'
+- !lcc 'PR'
+- !lcsh 'English fiction -- Translations into French'
+- !lcsh 'Fairy tales'
+tableOfContents: 'Préface -- Note bibliographique du traducteur -- Le Crime de lord
+  Arthur Savile -- Contes: Note bibliographique du traducteur. L''Ami Dévoué. La Fameuse
+  Fusée. Le Prince Heureux. Le Rossignol et la Rose. Le Géant Égoïste -- Nouvelles
+  publiées en Amérique: Note bibliographique du traducteur. Ego te absolvo. Old Bishop''s.
+  La Peau d''orange.'
+title: Le crime de Lord Arthur Savile
+url: http://www.gutenberg.org/ebooks/14693
